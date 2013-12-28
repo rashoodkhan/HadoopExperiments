@@ -5,6 +5,7 @@ Word Count implementation in Hadoop's MapReduce.
 The jar file contains all the classes. To run the program using the jar file:
 
 $javac MyWordCount.java
+
 $hadoop jar mywc.jar MyWordCount test.txt output
 
 To view the output of the program:
